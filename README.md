@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un desarrollador autodidacta con fuentes de youtube, platzi y coderhouse, estudio desde el 2020 <br>y actualmente estoy realizando proyectos personales con un equipo de personas
+Desarrollador con experiencia en aplicaciones web. Tras mis 2 años estudiando de manera autodidacta en front end developer (proximamente Backend), ahora mismo estoy siendo instructor de dos socios para en un futuro desarrollar una empresa de software , de esa forma estoy avanzando mucho con mi capacidad de resolver problemas . Me gustaria ser parte de su empresa para potenciar mis habilidades en el mundo de la tecnologia.
 
 
 ## 🌐 Socials:
